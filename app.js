@@ -36,7 +36,7 @@ const url = "https://us21.api.mailchimp.com/3.0/lists/6c91fdeb7a"
 
 const options = {
   method: "POST",
-  auth: "geroge1:4836e48ba22be586d32ffae1629ab7c4-us21"
+  auth: "geroge1:a2d7340a1d4dd4a0c0630c41d3735800-us21"
 }
 
 
@@ -63,7 +63,7 @@ app.post("/failure",function(req,res){
 })
 
 //Key
-//4836e48ba22be586d32ffae1629ab7c4-us21
+//a2d7340a1d4dd4a0c0630c41d3735800-us21
 
 //audienceID
 //6c91fdeb7a
